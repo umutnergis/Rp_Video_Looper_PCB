@@ -1,0 +1,13 @@
+sudo nano /home/pi/.bashrc --> go this path
+
+echo Running at boot 
+sudo python /home/pi/sample.py --> change path 
+
+/home/umut/.local/lib/python3.9/site-packages --> if your bash doesn't see your added library, need to copy library file to dist_packages
+
+/lib/python3.9/dist-packages -- --> dist_packages path
+
+cp kaynakdosya hedef dosya --> copy 
+
+
+
