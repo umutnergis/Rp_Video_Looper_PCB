@@ -1,8 +1,8 @@
 # Raspberry Pi Kart Okuma ve Video Oynatma Projesi
 
-Bu proje, Raspberry Pi kullanarak bir kart okuma cihazı algılandığında USB üzerindeki bir videoyu oynatmayı ve bir fanın çalışmasını kontrol etmeyi amaçlar. Bu README dosyası, projenin nasıl kurulacağı, yapılandırılacağı ve kullanılacağı hakkında temel bilgileri içerir.
+Bu proje, Raspberry Pi kullanarak bir kart okuma cihazı USB içinde money.txt klasöründeki int değeri kadar algılandığında USB üzerindeki bir videoyu oynatmayı ve bir fanın çalışmasını kontrol etmeyi amaçlar. Bu README dosyası, projenin nasıl kurulacağı, yapılandırılacağı ve kullanılacağı hakkında temel bilgileri içerir.
 
-## Gereksinimler
+## Raspberry Pi için Gereksinimler
 
 Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 
@@ -27,3 +27,6 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 4. Usb'nizin içine yüklemek istediğiniz dosyaları first.mp4 ve second.mp4 şeklinde atın.
 
 
+## Raspberry Pi PCB için Gereksinimler
+
+- PCB dosyası Raspberry pi 1B için tasarlanmıştır.
