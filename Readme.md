@@ -30,8 +30,8 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 ## Raspberry Pi PCB için Gereksinimler
 
 - PCB dosyası Raspberry pi 1B için tasarlanmıştır.
-
-
+- KICAD 7.0 kullanılmıştır.
+- Gerekli olan footprint ve schematicler "Rp_project_reguirements" dosyasında yüklenmiştir.
 
 
 
