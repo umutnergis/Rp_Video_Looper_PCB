@@ -24,7 +24,7 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 
 3. Eğer Raspberry pi'nızda otomatik başlatmak istiyorsanız AutoStart klasöründeki dosyayı inceleyebilirsiniz.
 
-4. Usb'nizin içine yüklemek istediğiniz dosyaları first.mp4 ve second.mp4 şeklinde atın.
+4. Usb'nizin içine yüklemek istediğiniz dosyaları first.mp4, second.mp4 ve money.txt şeklinde atın.
 
 
 ## Raspberry Pi PCB için Gereksinimler
