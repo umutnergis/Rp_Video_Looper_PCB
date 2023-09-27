@@ -30,3 +30,10 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 ## Raspberry Pi PCB için Gereksinimler
 
 - PCB dosyası Raspberry pi 1B için tasarlanmıştır.
+
+
+
+
+
+
+![PCB Ön Yüzü](Rp_pcb.png)
