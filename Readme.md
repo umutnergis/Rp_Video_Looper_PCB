@@ -66,7 +66,7 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 =======
 - KICAD 7.0 kullanılmıştır.
 - Gerekli olan footprint ve schematicler "Rp_project_reguirements" dosyasında yüklenmiştir.
->>>>>>> b91a5343eabddf31ced415641bcb549e5d7a524c
+
 
 
 
