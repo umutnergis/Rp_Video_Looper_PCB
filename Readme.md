@@ -24,12 +24,12 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 
 3. Eğer Raspberry pi'nızda otomatik başlatmak istiyorsanız AutoStart klasöründeki dosyayı inceleyebilirsiniz.
 
-4. Usb'nizin içine yüklemek istediğiniz dosyaları first.mp4 ve second.mp4 şeklinde atın.
 
 
 ## Raspberry Pi PCB için Gereksinimler
 
 - PCB dosyası Raspberry pi 1B için tasarlanmıştır.
+<<<<<<< HEAD
 
 
 ##                                                FOR ENGLİSH
@@ -63,6 +63,10 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 - The PCB file is designed for Raspberry Pi 1B.
 - KiCAD 7.0 was used for design.
 - The required footprints and schematics are available in the "Rp_project_requirements" file.
+=======
+- KICAD 7.0 kullanılmıştır.
+- Gerekli olan footprint ve schematicler "Rp_project_reguirements" dosyasında yüklenmiştir.
+>>>>>>> b91a5343eabddf31ced415641bcb549e5d7a524c
 
 
 
