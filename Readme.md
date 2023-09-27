@@ -37,3 +37,6 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 
 
 ![PCB Ön Yüzü](Rp_pcb.png)
+
+
+![PCB Ön Yüzü](Rp_pcb_back_side.png)
