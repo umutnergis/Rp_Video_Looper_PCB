@@ -32,6 +32,37 @@ Bu projeyi başlatmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 - PCB dosyası Raspberry pi 1B için tasarlanmıştır.
 
 
+##                                                FOR ENGLİSH
+
+## Raspberry Pi Card Reading and Video Playback Project
+ This project aims to use a Raspberry Pi to read a card reader device plugged into a USB port and, when an integer value is detected in the money.txt folder on the USB, play a video from the USB and control the operation of a fan. This README file contains basic information on how to set up, configure, and use the project.
+
+## Requirements for Raspberry Pi
+- To start this project, you will need the following components:
+
+## Raspberry Pi (e.g., Raspberry Pi 3 or Raspberry Pi 4)
+- Card Reader (USB)
+- Fan
+- Relay module or driver circuits
+- Python 3.7
+- Installation
+
+1. Connect your Raspberry Pi to the network and open a terminal to perform the necessary updates:
+
+   ```shell
+   sudo apt update
+   sudo apt upgrade
+
+2. Upload the Main.py file to your Raspberry Pi.
+
+3. If you want to auto-start the project on your Raspberry Pi, you can review the file in the AutoStart folder.
+
+4. Place the files you want to load into your USB as first.mp4, second.mp4, and money.txt.
+
+## Requirements for Raspberry Pi PCB
+- The PCB file is designed for Raspberry Pi 1B.
+- KiCAD 7.0 was used for design.
+- The required footprints and schematics are available in the "Rp_project_requirements" file.
 
 
 
